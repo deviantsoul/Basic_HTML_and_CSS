@@ -1,0 +1,19 @@
+table {
+	border: 1px solid silver;
+	}
+td:hover	{
+		background-color: lightyellow;
+		color: black;
+		}
+tr, th	{
+		background-color: black;
+		color: cornsilk;
+		}
+tr, td	{
+		background-color: powderblue;
+		color: black;
+		}
+h1	{
+	text-align: center;
+	color: red;
+}
