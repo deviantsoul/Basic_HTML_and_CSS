@@ -6,3 +6,23 @@ p {
 	font-size: medium;
 	text-align: center;
 	}
+h1	{
+	text-align: center;
+	font-style: bold;
+	color: red;
+	font-size: 32px;
+	}
+ol	{
+	color: blue;
+	text-align: center;
+	}
+ul	{
+	color: green;
+	text-align: center;
+	}
+h2	{
+	text-align: center;
+	font-style: bold;
+	color: red;
+	font-size: 32px;
+	}
